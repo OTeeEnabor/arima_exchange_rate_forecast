@@ -24,4 +24,4 @@ The currencies analyzed in this time series analysis are:
 ## Link to Streamlit
 The outcome of this analysis dashboard is deployed to Streamlit. See link below. 
 
-(Exchange Rate Forecast Tool)[https://oteeenabor-exchangerateforecast-main-rfd3az.streamlit.app/]
+[Exchange Rate Forecast Tool](https://oteeenabor-exchangerateforecast-main-rfd3az.streamlit.app/)
